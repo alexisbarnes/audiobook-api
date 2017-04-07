@@ -73,10 +73,10 @@
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 all-content">
             <a href="#"><div class="logo"></div></a>
             <div class="page-links">
-              <a href="#" class="link">Documentation</a>
+              <a href="https://alexisbarnes.gitbooks.io/audiobook-api/content/" target="_blank" class="link">API Documentation</a>
               <a href="http://www.alexisbarnes.com" target="_blank" class="link">Alexis Barnes's Portfolio</a>
-              <a href="www.github.com/alexisbarnes" target="_blank" class="link">GitHub</a>
-              <a href="#" target="_blank" class="link">Credits</a>
+              <a href="https://www.github.com/alexisbarnes" target="_blank" class="link">GitHub</a>
+              <a href="https://github.com/asethwright/laravel-ncaa-api" target="_blank" class="link">Credits</a>
             </div>
           </div>
         </div>
