@@ -1,8 +1,9 @@
 ## AudioBook API
 
-AudioBook is a music, podcast and sound effects library. Here you will be able to upload your own audio and access what other people's. The framework for this API is based on PHP and Laravel.
+AudioBook is a music, podcast and sound effects library. Here you will be able to create your own audio database and display it in a way that you like. The framework for this API is based on PHP and Laravel.
 
 You will be able to create, read, update and delete within your database using AJAX.
+
 
 ## Installation
 
